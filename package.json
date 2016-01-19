@@ -1,7 +1,7 @@
 {
   "name": "@vaalentin/geo-plane",
-  "version": "1.0.0",
-  "description": "Generate a plane geometry. The code is extracted from Three.js.",
+  "version": "1.0.1",
+  "description" : "Plane geometry, extracted from three.js",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm run build",
